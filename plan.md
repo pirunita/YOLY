@@ -9,8 +9,17 @@ Figure)
 ## Plan ##
 * Aug ~ Sep
     - Reading <a href="#a">reference</a> and train important paper and test.
-        + EdgeConnect
+    
+    - Multiple-Human Parsing
         + Multiple-Human Parsing in the wild
+        + ~~R-CNN~~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://pirunita.dev/2019/08/23/Paperreview-R-CNN/">[review]</a> 
+        + ~~Fast R-CNN~~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pirunita.dev/2019/08/23/Paperreview-Fast_R-CNN/">[review]</a> 
+        + Faster R-CNN
+        + YOLO
+        + Mask R-CNN
+    
+    - Image generative model based GAN
+        + EdgeConnect
 
 * Sep ~ Nov
     - Get Dataset
