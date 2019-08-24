@@ -17,9 +17,13 @@ Figure)
         + Faster R-CNN
         + YOLO
         + Mask R-CNN
+        + Understanding Humans in Crowded Scenes: Deep Nested Adversarial Learning and A New Benchmark for Multi-Human Parsing
     
     - Image generative model based GAN
         + EdgeConnect
+        + Image De-raining
+        + WGAN
+        + Deep-Object-Removal
 
 * Sep ~ Nov
     - Get Dataset
